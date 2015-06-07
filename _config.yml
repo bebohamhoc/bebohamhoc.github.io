@@ -1,3 +1,4 @@
-name: Hank Quinlan, Horrible Cop
+name: Hoa Phan
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+baseurl: /personal
